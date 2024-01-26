@@ -13,7 +13,7 @@ jobs:
           run: ls
 
         - name: read me
-          run: cat ../README.md
+          run: echo " Read me"
 
 
 
